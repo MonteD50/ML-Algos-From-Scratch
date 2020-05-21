@@ -3,4 +3,4 @@ This repo is really for myself to learn ML algos. As of now I understand the int
 
 1. Simple Linear Regression
 2. Simple Linear Regression (Optimized with Gradient Descent)
-3. 3. Simple Linear Regression (Optimized with Stochastic Gradient Descent)
+3. Simple Linear Regression (Optimized with Stochastic Gradient Descent)
