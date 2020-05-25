@@ -5,3 +5,4 @@ This repo is really for myself to learn ML algos. As of now I understand the int
 2. Simple Linear Regression (Optimized with Gradient Descent)
 3. Simple Linear Regression (Optimized with Stochastic Gradient Descent)
 4. Simple Linear Regression (Optimized with Mini- Batch Gradient Descent)
+5. Polynomial Regression
