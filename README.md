@@ -5,3 +5,4 @@ This repo is really for myself to learn ML algos. As of now I understand the int
 2. Simple Linear Regression (Optimized with Gradient Descent)
 3. Simple Linear Regression (Optimized with Stochastic Gradient Descent)
 4. Simple Linear Regression (Optimized with Mini- Batch Gradient Descent)
+5. Polynomial Regression <img src="https://camo.githubusercontent.com/e810d96a781734cec199da617c69fb7acf77ee6a/68747470733a2f2f706f77657263692e6f73756f736c2e6f72672f6a6f622f7079746f7263682d6d61737465722d6e696768746c792d7079332d6c696e75782d70706336346c652f62616467652f69636f6e" alt="Build Status" data-canonical-src="https://powerci.osuosl.org/job/pytorch-master-nightly-py3-linux-ppc64le/badge/icon" style="max-width:100%;">
