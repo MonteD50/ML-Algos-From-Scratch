@@ -1,8 +1,12 @@
 # ML-Algos-From-Scratch
 This repo is really for myself to learn ML algos. As of now I understand the intuition behind most algos, but I am lacking the rigor behind these algos. I will be starting off with the simplest of algos and making my way to the state of the art deep learning algos. Learning the mathematical intricacies and translation to code of ML algos is a goal for me along with getting a stern intuition behind ML algos. The best way to learn is to create them from scratch, of course following tutorials then deviating on my own; so this repo will be the code base for just that. If you (the viewer) are on a similar journey feel free to use the notebooks to your pleasure. 
 
-1. Simple Linear Regression
-2. Simple Linear Regression (Optimized with Gradient Descent)
-3. Simple Linear Regression (Optimized with Stochastic Gradient Descent)
-4. Simple Linear Regression (Optimized with Mini- Batch Gradient Descent)
+1. Simple Linear Regression <img src="https://camo.githubusercontent.com/3c79e1fb9ca53dc2ce86114435a912f8f43ab4ef/68747470733a2f2f63692e7079746f7263682e6f72672f6a656e6b696e732f6a6f622f7079746f7263682d6d61737465722f62616467652f69636f6e" alt="Build Status" data-canonical-src="https://ci.pytorch.org/jenkins/job/pytorch-master/badge/icon" style="max-width:100%;">
+
+2. Simple Linear Regression (Optimized with Gradient Descent)<img src="https://camo.githubusercontent.com/3c79e1fb9ca53dc2ce86114435a912f8f43ab4ef/68747470733a2f2f63692e7079746f7263682e6f72672f6a656e6b696e732f6a6f622f7079746f7263682d6d61737465722f62616467652f69636f6e" alt="Build Status" data-canonical-src="https://ci.pytorch.org/jenkins/job/pytorch-master/badge/icon" style="max-width:100%;">
+
+3. Simple Linear Regression (Optimized with Stochastic Gradient Descent)<img src="https://camo.githubusercontent.com/3c79e1fb9ca53dc2ce86114435a912f8f43ab4ef/68747470733a2f2f63692e7079746f7263682e6f72672f6a656e6b696e732f6a6f622f7079746f7263682d6d61737465722f62616467652f69636f6e" alt="Build Status" data-canonical-src="https://ci.pytorch.org/jenkins/job/pytorch-master/badge/icon" style="max-width:100%;">
+
+4. Simple Linear Regression (Optimized with Mini- Batch Gradient Descent)<img src="https://camo.githubusercontent.com/3c79e1fb9ca53dc2ce86114435a912f8f43ab4ef/68747470733a2f2f63692e7079746f7263682e6f72672f6a656e6b696e732f6a6f622f7079746f7263682d6d61737465722f62616467652f69636f6e" alt="Build Status" data-canonical-src="https://ci.pytorch.org/jenkins/job/pytorch-master/badge/icon" style="max-width:100%;">
+
 5. Polynomial Regression <img src="https://camo.githubusercontent.com/e810d96a781734cec199da617c69fb7acf77ee6a/68747470733a2f2f706f77657263692e6f73756f736c2e6f72672f6a6f622f7079746f7263682d6d61737465722d6e696768746c792d7079332d6c696e75782d70706336346c652f62616467652f69636f6e" alt="Build Status" data-canonical-src="https://powerci.osuosl.org/job/pytorch-master-nightly-py3-linux-ppc64le/badge/icon" style="max-width:100%;">
