@@ -13,4 +13,6 @@ This repo is really for myself to learn ML algos. As of now I understand the int
 
 <li><a href="https://github.com/Arm627/ML-Algos-From-Scratch/blob/master/6.%20Binomial%20Logistic%20Regression.ipynb">Binomial Logistic Regression</a><img src="https://camo.githubusercontent.com/3c79e1fb9ca53dc2ce86114435a912f8f43ab4ef/68747470733a2f2f63692e7079746f7263682e6f72672f6a656e6b696e732f6a6f622f7079746f7263682d6d61737465722f62616467652f69636f6e" alt="Build Status" data-canonical-src="https://ci.pytorch.org/jenkins/job/pytorch-master/badge/icon" style="max-width:100%;"></li>
 
+<li><a href="https://github.com/Arm627/ML-Algos-From-Scratch/blob/master/7.%20Softmax%20Regression%20(Multinomial%20Logistic%20Regression).ipynb">Softmax Regression (Multi Nomial Logistic Regression</a><img src="https://camo.githubusercontent.com/3c79e1fb9ca53dc2ce86114435a912f8f43ab4ef/68747470733a2f2f63692e7079746f7263682e6f72672f6a656e6b696e732f6a6f622f7079746f7263682d6d61737465722f62616467652f69636f6e" alt="Build Status" data-canonical-src="https://ci.pytorch.org/jenkins/job/pytorch-master/badge/icon" style="max-width:100%;"></li>
+
 </ol>
